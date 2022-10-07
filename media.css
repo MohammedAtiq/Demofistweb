@@ -1,0 +1,159 @@
+@media screen and (max-width: 500px) {
+    .imgPosition1{
+        margin-top: 100px;
+       position: relative;
+       bottom: 0px;
+       left:0px;
+    }
+    .custom-search {
+        width: 340px;
+    }
+
+    .logo{
+      margin-left: 135px;
+    }
+    .box2{
+        margin-top:40px;
+    }
+    .img2{
+        width:300px;
+        margin-left: -44px;
+    }
+    .imgPosition{
+        display:none;
+    }
+    
+    .line{
+        display:none;
+    }
+    .footerCenter{
+        text-align:center;
+    }
+
+    .centerFoot1{
+        align-items:center !important;
+        margin-bottom: 15px;
+    }
+
+    .centerFoot1 h3{
+      font-size: 18px;
+    }
+
+    .custom-search{
+        margin: auto;
+    }
+
+  .card-text{
+    display: none;
+  }
+
+  #social-fb{
+    font-size: 20px;
+    margin: 0px 5px;
+}
+
+.footers ul {
+     line-height: 12px; 
+}
+
+.footers-one{
+    margin-bottom:15px;
+}
+
+.card-title{
+    margin-top:0 !important;
+}
+
+.card-body{
+    margin-top:0 !important;
+}
+
+/* dropDown car  */
+ .cardImg1{
+  width:20px;
+ }
+
+ .card-text1{
+ display:none;
+ }
+
+ .dropRow{
+  width: 80%;
+ }
+
+.card-horizontal{
+  margin: 0 !important;
+}
+
+.box2{
+  margin: 0 !important;
+}
+.box3{
+  margin-top: 10px !important;
+}
+.card-title1{
+ margin-top: 5px;
+}
+
+.f2Size{
+ font-size:20px;
+}
+
+.footSearch{
+  margin: auto;
+}
+
+.footSearch h3{
+  font-size: 16px;
+}
+
+.footers{
+  padding-top: 0 !important;
+}
+
+.navbar .list li{
+  font-size:10px;
+}
+
+.backColor1{
+margin-top:300px;
+}
+
+.carousel-control-next {
+  right: -8px;
+  top: 231px;
+  opacity: 1;
+}
+.carousel-control-prev {
+  left: 8px;
+  opacity: 1;
+  top: 231px;
+}
+.footers ul {
+  line-height: 25px;
+}
+.btn-warning {
+  font-size:11px;
+}
+.btn-outline-primary{
+  font-size: 11px;
+}
+.bgYellow{
+  margin: 0;
+}
+.navBtn{
+  margin: 0 14px !important;
+}
+  }
+
+  @media screen and (min-width: 990px){
+    .navBtn{
+      display:none; 
+    }
+  }
+
+  @media screen and (max-width: 990px){
+    .navBtn2{
+      display:none;
+    }
+  }
